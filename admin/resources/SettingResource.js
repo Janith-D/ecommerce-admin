@@ -1,0 +1,1 @@
+// SettingResource.js

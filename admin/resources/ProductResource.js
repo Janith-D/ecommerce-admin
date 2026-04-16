@@ -1,0 +1,1 @@
+// ProductResource.js

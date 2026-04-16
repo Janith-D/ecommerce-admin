@@ -1,1 +1,1 @@
-// dashboard.js
+module.exports = { handler: async (request, response, context) => { return { message: "Welcome to eCommerce Admin Dashboard" }; }, component: false };

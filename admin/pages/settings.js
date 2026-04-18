@@ -1,1 +1,1 @@
-// settings.js
+module.exports = { handler: async (request, response, context) => { return { message: "Settings Page" }; }, component: false };
